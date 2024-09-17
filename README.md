@@ -25,13 +25,25 @@
 
 </div>
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Skills:</h3>
-<p align="center">
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />Front-end:</h3><p align="center">
+  <img alt="typescript" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img alt="JavaScript" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg">
+  <img alt="React" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg">
+  <img align="center" height="60" width="60"  alt="Nextjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img align="center" height="60" width="60"  alt="Vite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+  <img align="center" height="60" width="60"  alt="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+  <img align="center" height="60" width="60"  alt="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="center" height="60" width="60"  alt="Styled-components" src="https://cdn-media-1.freecodecamp.org/images/-bmCEVFtIS2uUfrccPhudu7cIVRtoBywTexv" />
+  <img align="center" height="60" width="60"  alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+</div>
+
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />Back-end:</h3><p align="center">
+
   <img alt="Java" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg">
+  <img alt="MySQL" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
   <img alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg">
   <img alt="C##" height="60" width="60" src="https://github.com/user-attachments/assets/bd6e3afd-15cd-48a2-b2f8-e15abb1536b5">
-  <img alt="typescript" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img alt="Maven" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Maven-Dark.svg">  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

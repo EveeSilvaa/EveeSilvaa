@@ -53,10 +53,11 @@
 <a href="#">
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=EveeSilvaa&hide=html,scss,css&langs_count=8&layout=compact&theme=tokyonight&card_width=150" />
 </a>
-
 <img  height=202 align="left"  src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=EveeSilvaa&theme=tokyonight"/>
+</a>
 
 
+![snake gif](https://github.com/EveeSilvaa/EveeSilvaa/blob/output/github-contribution-grid-snake.svg)
 
 
 

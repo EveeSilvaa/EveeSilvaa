@@ -6,7 +6,6 @@ https://www.tooplate.com/view/2115-marvel
 
 */
 
-
 @import url("https://fonts.googleapis.com/css?family=Maven+Pro:400,700");
 body {
   font-family: "Maven Pro", sans-serif;
@@ -40,7 +39,7 @@ a {
   transition: all 0.4s ease;
 }
 a:hover {
-  color: #ffc200 !important;
+  color: #f778c6 !important;
 }
 
 .navbar-brand .uil {
@@ -99,7 +98,7 @@ b, strong {
   color: #ffffff;
 }
 .custom-btn.custom-btn-bg:hover {
-  background: #ffc200;
+  background: #f587be;
   color: #ffffff !important;
 }
 
@@ -116,7 +115,7 @@ b, strong {
 }
 
 .animated-item {
-  color: #ffc200;
+  color: #f10467;
 }
 
 .animated-item {
@@ -430,10 +429,10 @@ b, strong {
   height: 48px;
 }
 .contact-form .form-control:hover, .contact-form .form-control:focus {
-  border-color: #ffc200;
+  border-color: #ee72bf;
 }
 .contact-form .submit-btn {
-  background: #ffc200;
+  background: #ff90b5;
   border-radius: 50px;
   color: #ffffff;
   font-weight: bold;

@@ -7,7 +7,6 @@
 <h1 align="center">Hi 👋, I'm Evellyn Silva!</h1>
 <img src="https://github.com/user-attachments/assets/a87ed7da-3084-472e-b168-121f06026658" width="250" heigth="250"/>
 <h3 align="center">Estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera Educacional</h3> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EveeSilvaa&label=Profile%20views&color=0e75b6&style=flat" alt="EveeSilvaa" /> </p>
 
 - 🌱 I’m currently learning **Programming**
 

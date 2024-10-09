@@ -5,7 +5,9 @@
 
 </div>
 <h1 align="center">Hi 👋, I'm Evellyn Silva!</h1>
+<img src="https://github.com/user-attachments/assets/a87ed7da-3084-472e-b168-121f06026658" width="250" heigth="250"/>
 <h3 align="center">Estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera Educacional</h3> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EveeSilvaa&label=Profile%20views&color=0e75b6&style=flat" alt="EveeSilvaa" /> </p>
 
 - 🌱 I’m currently learning **Programming**
 
@@ -26,6 +28,7 @@
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />Front-end:</h3><p align="center">
   <img alt="typescript" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img alt="JavaScript" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg">
+  <img alt="React" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg">
 </div>
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />Back-end:</h3><p align="center">
@@ -36,7 +39,7 @@
   <img alt="C##" height="60" width="60" src="https://github.com/user-attachments/assets/bd6e3afd-15cd-48a2-b2f8-e15abb1536b5">
 </p>
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <img alt="Git" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg">
   <img alt="GitHub" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg">
@@ -44,12 +47,16 @@
   <img alt="VSCode" height="60" width="60" src="https://github.com/user-attachments/assets/37bfb877-890c-4297-8df4-1478dbc6624e">
 </p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EveeSilvaa&show_icons=true&count_private=true&hide_border=true&title_color=CC6CE7&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Evellyn Silva github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EveeSilvaa&layout=compact&hide_border=true&title_color=CC6CE7&text_color=00bfbf&bg_color=0d1117" />
-</div>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=EveeSilvaa&show_icons=true&theme=tokyonight&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=EveeSilvaa&hide=html,scss,css&langs_count=8&layout=compact&theme=tokyonight&card_width=150" />
+</a>
 
-![snake gif](https://github.com/EveeSilvaa/EveeSilvaa/blob/output/github-contribution-grid-snake.svg)
+<img  height=202 align="left"  src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=EveeSilvaa&theme=tokyonight"/>
+
+
 
 
 

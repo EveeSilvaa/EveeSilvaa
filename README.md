@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Evellyn Silva!</h1>
-<img src="https://github.com/user-attachments/assets/c42d973a-6287-49a1-9c18-433c319944d2" alt="ilustração de um computador"  width="600px" align="right">
+<img src="https://github.com/user-attachments/assets/8ffdfb7e-8d42-4f11-ab4c-4b20cd810f1d" alt="ilustração de um computador"  width="500px" align="right">
 <h3 align="center">I'm studying System Analysis Development, I have a great interest in web and game development</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EveeSilvaa&label=Profile%20views&color=0e75b6&style=flat" alt="EveeSilvaa" /> </p>
 

@@ -3,8 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bb9af7&center=true&vCenter=true&lines=Hello+World!;Keep+it+simple.;Stay+curious!;Learn+everyday.;Code+with+passion.;Dream+big.+Start+small.;Make+it+happen.;Stay+positive!;Coding+is+life.;Embrace+the+bugs.;Think.+Code.+Repeat.;Crafting+digital+worlds.;Debugging+is+learning.;Coding+dreamer.;Pixel+by+pixel,+line+by+line.;Hack+the+planet!;Innovate+and+iterate.;Logic+is+the+language.;Unlocking+potential+through+code.;Bytes+of+brilliance.;Art+of+algorithms.;Create,+code,+conquer!;Coding+is+poetry+in+motion.;Ctrl+C,+Ctrl+V,+Ctrl+Success!;From+ideas+to+implementation.;Endless+possibilities+in+code.;Coding+unlocks+doors+to+imagination.;Dream+it,+code+it,+build+it.;Crafting+the+digital+future.;Coding+is+my+superpower.;In+the+realm+of+bits+and+bytes.;Algorithm+architect.;Unleashing+creativity+through+code.;Binary+thoughts,+limitless+visions.;Code+is+my+canvas.;Creating+tomorrow+today.;Passionate+about+programming.;Breaking+the+code+barriers.;Crafting+digital+masterpieces.;In+code,+we+trust.;Finding+beauty+in+logic.;])](https://git.io/typing-svg)
 </div>
 
+
 <h1 align="center">Hi 👋, I'm Evellyn Silva!</h1>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/user-attachments/assets/c42d973a-6287-49a1-9c18-433c319944d2" alt="ilustração de um computador"  width="600px" align="right">
 <h3 align="center">I'm studying System Analysis Development, I have a great interest in web and game development</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EveeSilvaa&label=Profile%20views&color=0e75b6&style=flat" alt="EveeSilvaa" /> </p>
 
@@ -16,6 +17,7 @@
 
 <h3 align="left">Connect with me</h3>
 <div align="center"> 
+
   
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evellynsilvadeveloper@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-evellyn-silva-738631226/)

@@ -19,7 +19,7 @@
 <div align="center"> 
 
   
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evellynsilvadeveloper@gmail.com)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evellynmaria@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-evellyn-silva-738631226/)
 [![Dio.me](https://img.shields.io/badge/-Dio.me-000000?style=for-the-badge&logo=Dio.me&logoColor=white)](https://www.dio.me/users/evellyndev593/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://quicksilver-lab.github.io/EveeSilvaa/)
@@ -56,13 +56,12 @@
 
 <!-- Status -->
 ## 📊 GitHub Stats: 
-<div>
-  <a href="https://github.com/EveeSilvaa">
-    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=EveeSilvaa&show_icons=true&count_private=true&hide_border=true&title_color=CC6CE7&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
-    <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EveeSilvaa&layout=compact&hide_border=true&title_color=CC6CE7&text_color=00bfbf&bg_color=0d1117" />
-    <img  height="180em" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=EveeSilvaa&layout=compact&hide_border=true&title_color=CC6CE7&text_color=00bfbf&bg_color=0d1117"/>
-  </a>
-</div>
+
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EveeSilvaa&theme=nord&show_icons=true&include_all_commits=true&custom_title=EveeSilvaa) 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EveeSilvaa&theme=nord&layout=donut)
+
+
 
 <!-- Snake -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> My Contributions:

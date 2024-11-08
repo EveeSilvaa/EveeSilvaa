@@ -5,7 +5,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Evellyn Silva!</h1>
-<img src="https://github.com/user-attachments/assets/8ffdfb7e-8d42-4f11-ab4c-4b20cd810f1d" alt="ilustração de um computador"  width="500px" align="right">
 <h3 align="center">I'm studying System Analysis Development, I have a great interest in web and game development</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EveeSilvaa&label=Profile%20views&color=0e75b6&style=flat" alt="EveeSilvaa" /> </p>
 
@@ -29,7 +28,6 @@
 <p>
   <img alt="HTML" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img alt="CSS" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg">
-  <img alt="SASS" height="60" width="60" src="https://skillicons.dev/icons?i=sass">
   <img alt="JavaScript" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg">
   <img alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg">
   <img alt="Typescript" height="60" width="60" src="https://skillicons.dev/icons?i=ts">

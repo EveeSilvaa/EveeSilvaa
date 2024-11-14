@@ -21,7 +21,6 @@
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evellynmaria@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-evellyn-silva-738631226/)
 [![Dio.me](https://img.shields.io/badge/-Dio.me-000000?style=for-the-badge&logo=Dio.me&logoColor=white)](https://www.dio.me/users/evellyndev593/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://quicksilver-lab.github.io/EveeSilvaa/)
 </div>
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />Languages and Technologies<p align="center">

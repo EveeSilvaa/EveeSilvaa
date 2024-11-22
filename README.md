@@ -3,10 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bb9af7&center=true&vCenter=true&lines=Hello+World!;Keep+it+simple.;Stay+curious!;Learn+everyday.;Code+with+passion.;Dream+big.+Start+small.;Make+it+happen.;Stay+positive!;Coding+is+life.;Embrace+the+bugs.;Think.+Code.+Repeat.;Crafting+digital+worlds.;Debugging+is+learning.;Coding+dreamer.;Pixel+by+pixel,+line+by+line.;Hack+the+planet!;Innovate+and+iterate.;Logic+is+the+language.;Unlocking+potential+through+code.;Bytes+of+brilliance.;Art+of+algorithms.;Create,+code,+conquer!;Coding+is+poetry+in+motion.;Ctrl+C,+Ctrl+V,+Ctrl+Success!;From+ideas+to+implementation.;Endless+possibilities+in+code.;Coding+unlocks+doors+to+imagination.;Dream+it,+code+it,+build+it.;Crafting+the+digital+future.;Coding+is+my+superpower.;In+the+realm+of+bits+and+bytes.;Algorithm+architect.;Unleashing+creativity+through+code.;Binary+thoughts,+limitless+visions.;Code+is+my+canvas.;Creating+tomorrow+today.;Passionate+about+programming.;Breaking+the+code+barriers.;Crafting+digital+masterpieces.;In+code,+we+trust.;Finding+beauty+in+logic.;])](https://git.io/typing-svg)
 </div>
 
-
 <h1 align="center">Hi 👋, I'm Evellyn Silva!</h1>
 <h3 align="center">I'm studying System Analysis Development, I have a great interest in web and game development</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EveeSilvaa&label=Profile%20views&color=0e75b6&style=flat" alt="EveeSilvaa" /> </p>
+<img src="https://github.com/user-attachments/assets/f3f3aa5b-a7e2-4bb2-9e5e-29eb0d09a25c" height="295" width="345"></img>
+
 
 - 🌱 I’m currently learning **Programming**
 

@@ -53,12 +53,10 @@
 </p>
 
 <!-- Status -->
-### GitHub Stats 📊
+## 📊 GitHub Stats: 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EveeSilvaa&show_icons=true&locale=en&layout=compact" alt="EveeSilvaa" /></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EveeSilvaa&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EveeSilvaa&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EveeSilvaa&show_icons=true&locale=en" alt="EveeSilvaa" /></p>
 
 
 <!-- Snake -->

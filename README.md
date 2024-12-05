@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Evellyn Silva!</h1>
 <h3 align="center">I'm studying System Analysis Development, I have a great interest in web and game development</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EveeSilvaa&label=Profile%20views&color=0e75b6&style=flat" alt="EveeSilvaa" /> </p>
-<img src="https://github.com/user-attachments/assets/f3f3aa5b-a7e2-4bb2-9e5e-29eb0d09a25c"></img>
+
 
 
 - 🌱 I’m currently learning **Programming**

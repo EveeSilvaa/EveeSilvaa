@@ -42,6 +42,7 @@
   <img alt="MYSQL" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
   <img alt=".NET" height="60" width="60" src="https://skillicons.dev/icons?i=dotnet">
   <img alt="Angular" height="60" width="60" src="https://skillicons.dev/icons?i=angular">
+   <img alt="react" height="60" width="60" src="https://skillicons.dev/icons?i=react">
 </p>
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />Tools and Platforms<p align="center">
@@ -49,6 +50,7 @@
   <img alt="Git" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg">
   <img alt="Figma" height="60" width="60" src="https://skillicons.dev/icons?i=figma">
   <img alt="Github" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg">
+  <img alt="vite" height="60" width="60" src="https://skillicons.dev/icons?i=vite">
   <img alt="Vscode" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg">
 </p>
 

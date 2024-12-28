@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Programming**
 
-- 💬 Ask me about **Spring, Angular, Programming, Devops,...**
+- 💬 Ask me about **React, JavaScript, Programming, Devops,...**
 
 - ⚡ Fun fact **I like drawing, watching anime, listening to music and programming**
 

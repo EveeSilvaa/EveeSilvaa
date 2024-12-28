@@ -56,14 +56,16 @@
 
 <!-- Status -->
 ## 📊 GitHub Stats: 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EveeSilvaa&show_icons=true&locale=en&layout=compact" alt="EveeSilvaa" /></p>
+<p>
+<img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=EveeSilvaa&show_icons=true&theme=tokyonight&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+<img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=EveeSilvaa&hide=html,scss,css&langs_count=8&layout=compact&theme=tokyonight&card_width=150" />
+<img  height=200 align="center"  src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=EveeSilvaa&theme=tokyonight"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EveeSilvaa&show_icons=true&locale=en" alt="EveeSilvaa" /></p>
-
+</p>
 
 <!-- Snake -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> My Contributions:
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/EveeSilvaa/EveeSilvaa/output/github-contribution-grid-snake-dark.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/EveeSilvaa/EveeSilvaa/output/github-contribution-grid-snake.gif" />
 
 ---
 

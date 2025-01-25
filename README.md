@@ -9,9 +9,9 @@
 
 
 
-- 🌱 I’m currently learning **Programming**
+- 👩‍💻 I am a "Análise e Desenvolvimento de Sistemas" student (analysis and systems development)**
 
-- 💬 Ask me about **React, JavaScript, Programming, Devops,...**
+- 💬  I also intend to study "Ciência da Computação" (Computer Science)**
 
 - ⚡ Fun fact **I like drawing, watching anime, listening to music and programming**
 

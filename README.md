@@ -4,6 +4,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Evellyn Silva!</h1>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <h3 align="center">I'm studying System Analysis Development, I have a great interest in web and game development</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EveeSilvaa&label=Profile%20views&color=0e75b6&style=flat" alt="EveeSilvaa" /> </p>
 

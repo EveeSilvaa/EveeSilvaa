@@ -10,57 +10,69 @@
 
 
 
-- 👩‍💻 I am a "Análise e Desenvolvimento de Sistemas" student **(analysis and systems development)**
+- 👩‍💻 I am a analysis and systems development
 
-- 💬  I also intend to study "Ciência da Computação" **(Computer Science)**
+- 💬  I also intend to study Computer Science
 
 - ⚡ Fun fact **I like drawing, watching anime, listening to music and programming**
 
 <h3 align="left">Connect with me</h3>
 <div align="center"> 
-
   
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evesilva.contato@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-evellyn-silva-738631226/)
-[![Dio.me](https://img.shields.io/badge/-Dio.me-000000?style=for-the-badge&logo=Dio.me&logoColor=white)](https://www.dio.me/users/evellyndev593/)
 </div>
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />Languages and Technologies<p align="center">
-<p>
-  <img alt="HTML" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
-  <img alt="CSS" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg">
-  <img alt="JavaScript" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg">
-  <img alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg">
-  <img alt="Typescript" height="60" width="60" src="https://skillicons.dev/icons?i=ts">
-  <img alt="c-sharp" height="60" width="60" src="https://skillicons.dev/icons?i=cs">
-  <img alt="PHP" height="60" width="60" src="https://skillicons.dev/icons?i=php">
-</p>
+  ## :mega: Hard-Skills
+    
+<div align="left">
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />Frameworks and Libraries<p align="center">
-<p>
-  <img alt="Bootstrap" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg">
-  <img alt="PostgreSQL" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
-  <img alt="MYSQL" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
-  <img alt=".NET" height="60" width="60" src="https://skillicons.dev/icons?i=dotnet">
-  <img alt="Angular" height="60" width="60" src="https://skillicons.dev/icons?i=angular">
-   <img alt="react" height="60" width="60" src="https://skillicons.dev/icons?i=react">
-</p>
+- #### Frontend
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![ReactJS](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextjs)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+  
+- #### Backend
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![Node](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node)
+  ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextjs)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
+  ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />Tools and Platforms<p align="center">
-<p>
-  <img alt="Git" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg">
-  <img alt="Figma" height="60" width="60" src="https://skillicons.dev/icons?i=figma">
-  <img alt="Github" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg">
-  <img alt="vite" height="60" width="60" src="https://skillicons.dev/icons?i=vite">
-  <img alt="Vscode" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg">
-</p>
+- #### QA & Automation
+  ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
+  ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
+  ![REST Assured](https://img.shields.io/badge/-REST%20Assured-333333?style=flat)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
+- #### DevOps & Collaboration
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
+  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+  ![JIRA](https://img.shields.io/badge/-JIRA-333333?style=flat&logo=jira)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
+  ![DevOps](https://img.shields.io/badge/-DevOps-333333?style=flat&logo=devops)
+
+- #### Unit Tests
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+  ![Testing-Library](https://img.shields.io/badge/-RTL-333333?style=flat&logo=testing-library)
+
+- #### Tools
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  
 <!-- Status -->
 ## 📊 GitHub Stats: 
 <p>
 <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=EveeSilvaa&show_icons=true&theme=tokyonight&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
 <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=EveeSilvaa&hide=html,scss,css&langs_count=8&layout=compact&theme=tokyonight&card_width=150" />
-<img  height=200 align="center"  src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=EveeSilvaa&theme=tokyonight"/>
+
 
 </p>
 

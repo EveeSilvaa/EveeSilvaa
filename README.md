@@ -2,7 +2,7 @@
  <a href="evesilva.contato@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/maria-evellyn-silva-738631226/" target="_blank">
+  <a href="www.linkedin.com/in/maeve-silva" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
 </div>

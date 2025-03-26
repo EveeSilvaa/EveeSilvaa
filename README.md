@@ -27,28 +27,18 @@
 ###
 
 
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+<h3 align="left">🛠 Linguagens e Ferramentas Backend e FrontEnd</h3>
 
 ###
 ###
 
-#### Frontend
- ![ReactJS](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
- ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-
-#### Backend
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-  ![Node](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node)
-  ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextjs)
-  
-### 
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,ts,vite,webpack,java,py,nodejs,git,figma,css,html" />
+</p>
 
 ###
 
 <h3 align="left"> Status 📚 </h3>
-
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EveeSilvaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="215" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EveeSilvaa&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="215" alt="languages graph"  />

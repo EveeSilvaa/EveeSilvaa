@@ -24,7 +24,7 @@
 
   <!-- SEU TEXTO SOBRE  -->
   <h3 align="left">💜 Olá, eu sou a Evellyn Silva!</h3>
-  <p align="left">🌍 Sou do Pará, Brasil<br>🎓 Estudante de ADS<br>⚡ Aspirante a Full-Stack com interesse em Desenvolvimento Web e Software<br>✨ Criando projetos para aprimorar minhas habilidades</p>
+  <p align="left">🌍 I from Brazil<br>🎓 Graduated in system analysis and development<br>💻 I also intend to study "Ciência da Computação" (Computer Science)<br>⚡ Aspiring Full-Stack developer with an interest in web development and cybersecurity<br></p>
 
   ###
 

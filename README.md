@@ -31,7 +31,7 @@
     <td>
       <h3>💜 Hello, I'm Evellyn Silva!</h3>
       <p>
-        🌍 I from Brazil<br>
+        🌍 I from Pará Brazil<br>
         🎓 Graduated in system analysis and development<br>
         💻 I also intend to study "Ciência da Computação" (Computer Science) or computer engineering(Engenharia da computação)<br>
         ⚡ Aspiring Full-Stack developer with an interest in web development and cybersecurity<br>

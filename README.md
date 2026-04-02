@@ -29,12 +29,9 @@
       <img src="https://github.com/user-attachments/assets/603f3800-d137-4883-802b-a85431398ebb" alt="Descrição da imagem" width="390px"/>
     </td>
     <td>
-      <h3>💜 Hello, I'm Evellyn Silva!</h3>
+      <h3>Evellyn Silva</h3>
       <p>
-        🌍 I from Pará Brazil<br>
-        🎓 Graduated in system analysis and development<br>
-        💻 I also intend to study "Ciência da Computação" (Computer Science) or computer engineering(Engenharia da computação)<br>
-        ⚡ Aspiring Full-Stack developer with an interest in web development and cybersecurity<br>
+        🎓 Faculdade em Analise e Desenvolvimento de Sistemas<br>
       </p>
     </td>
   </tr>
